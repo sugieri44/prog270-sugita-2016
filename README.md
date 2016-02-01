@@ -27,3 +27,4 @@ I am makeing some change at the step four from /temp/qux
 3) Can you guess where I am now? 
 4) I'm back in Git now 
 5) And here I am in /temp/qux 
+6) Bye now from /Git 
