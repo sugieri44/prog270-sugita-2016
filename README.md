@@ -22,3 +22,5 @@ I am editingn README.md for GitDualRepos assignment
 
 ##Step Four
 I am makeing some change at the step four from /temp/qux 
+
+2) Now I'm back to Git folder 
