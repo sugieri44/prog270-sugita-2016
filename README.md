@@ -16,3 +16,6 @@ Here is the useful commands I'll use
 
 ## Success
 I pulled my changes down in to qux
+
+##Editing from home 
+I am editingn README.md for GitDualRepos assignment
