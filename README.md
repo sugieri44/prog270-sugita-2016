@@ -19,3 +19,6 @@ I pulled my changes down in to qux
 
 ##Editing from home 
 I am editingn README.md for GitDualRepos assignment
+
+##Step Four
+I am makeing some change at the step four from /temp/qux 
