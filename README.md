@@ -25,3 +25,4 @@ I am makeing some change at the step four from /temp/qux
 
 2) Now I'm back to Git folder 
 3) Can you guess where I am now? 
+4) I'm back in Git now 
