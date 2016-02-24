@@ -21,15 +21,17 @@
 
 
 
-<p>
+<section class="full-width color-light-black" id="welcome">
 # Welcome to my home page.
 
 I am introducing some stretching techniques.
-</p>
+</section>
 
+<section class="full-width" id="homepage-pic">
 <img src="/images/yoga/stretch-on-a-bed.jpg" alt="A women stretching on a bed" title="A woman stretching">
+</section>
 
-<p>
+<section class="full-width color-light-black" id="focuses">
 # Our 3 focuses
 
 <img src="/images/one.png" alt="number one" title="one">
@@ -41,4 +43,9 @@ Focus on "Flexible mussles", rather than build mussles ,and no more joint pain
 <img src="/images/three.png" alt="number three" title="three">
 Our motto is "Hospitality" and "enjoyable communication"
 
-</p>
+</section>
+
+<section class="full-width color-white" id="intro">
+This is a Midterm assignment for Prog 270
+February 2016
+</section>

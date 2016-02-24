@@ -10,3 +10,20 @@ img.twenty-five-percent {
     margin-right: -15px;
     margin-left: -15px;
 }
+
+.for-full-back{
+  opacity: 0.9;
+}
+
+section{
+  padding-top: 30px;
+  padding-bottom: 40px;
+}
+
+.color-light-black{
+  background-color: #F8F8F8;
+}
+
+.color-white{
+  background-color: #fff;
+}
