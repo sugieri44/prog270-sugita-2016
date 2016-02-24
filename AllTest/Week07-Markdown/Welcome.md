@@ -4,4 +4,4 @@
 
 Welcome to XXX!
 We are here to support you.
-Get back your smile and enjoy more with your family. 
+Get back your smile and enjoy more with your family.

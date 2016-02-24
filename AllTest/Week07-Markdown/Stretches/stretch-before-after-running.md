@@ -2,7 +2,7 @@
 
 <img src="/images/running.gif" alt="running" title="running">
 ```sh
-Introducting streches before and after running. People who run short distance not only should focus on lower body streches but also on the whole body. Long distance running requires you to use not only your legs but your backbone and lower back. You should not try too hard but rather enjoy running. 
+Introducting streches before and after running. People who run short distance not only should focus on lower body streches but also on the whole body. Long distance running requires you to use not only your legs but your backbone and lower back. You should not try too hard but rather enjoy running.
 ```
 <table>
 <thead>
