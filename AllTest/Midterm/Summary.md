@@ -1,0 +1,7 @@
+* [Latte-Macchiato.html](Latte-Macchiato.html)
+* [Morning-strech.html](Morning-strech.html)
+* [Welcome.html](Welcome.html)
+* [our-three-focuses.html](our-three-focuses.html)
+* [schedule.html](schedule.html)
+* [strech-before-after-running.html](strech-before-after-running.html)
+* [strech-before-after-swimming.html](strech-before-after-swimming.html)
