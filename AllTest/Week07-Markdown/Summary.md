@@ -5,5 +5,6 @@
 * [Welcome.html](Welcome.html)
 * [contact-us.html](contact-us.html)
 * [our-three-focuses.html](our-three-focuses.html)
+* [schedule.html](schedule.html)
 * [strech-before-after-running.html](strech-before-after-running.html)
 * [strech-before-after-swimming.html](strech-before-after-swimming.html)

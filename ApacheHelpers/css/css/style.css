@@ -1,0 +1,54 @@
+img.twenty-five-percent {
+   width: 25%;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+}
+
+.for-full-back{
+  width: 100%;
+}
+
+section{
+  padding-top: 30px;
+  padding-bottom: 40px;
+}
+
+.color-light-black{
+  background-color: #F8F8F8;
+}
+
+.color-white{
+  background-color: #fff;
+}
+
+.inline-block{
+  vertical-align: top;
+  display: inline-block;
+  *display: inline;
+  zoom: 1;
+}
+
+#thumbs {   
+    width: 540px;
+    margin-top:90px;
+    margin-left: auto; 
+    margin-right: auto;
+
+    text-align: justify;
+    -ms-text-justify: distribute-all-lines;
+    text-justify: distribute-all-lines;
+}
+
+.stretch {
+    width: 100%;
+    display: inline-block;
+    font-size: 0;
+    line-height: 0
+}

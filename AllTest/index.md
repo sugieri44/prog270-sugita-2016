@@ -33,7 +33,7 @@ I am introducing some stretching techniques.
 </section>
 
 <section class="full-width color-light-black" id="focuses">
-<h1> Our 3 focuses</h1>
+# Our 3 focuses
 
 <p>
 <img src="/images/one.png" alt="number one" title="one">
