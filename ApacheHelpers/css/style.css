@@ -28,27 +28,34 @@ section{
   background-color: #fff;
 }
 
-.inline-block{
-  vertical-align: top;
-  display: inline-block;
-  *display: inline;
-  zoom: 1;
+ul li.home-menu .container {
+    height: 476px;
+    background: url(/images/yoga/stretch-on-a-bed.jpg) no-repeat;
+    margin-left: auto;
+    margin-right: auto; 
+
+  /* Preserve aspet ratio */
+  min-width: 100%;
+  min-height: 100%;
 }
 
-#thumbs {   
-    width: 540px;
-    margin-top:90px;
-    margin-left: auto; 
-    margin-right: auto;
-
-    text-align: justify;
-    -ms-text-justify: distribute-all-lines;
-    text-justify: distribute-all-lines;
+.menu-selections li {
+    float: left;
+    width: 23%;
+    margin-left: 0;
 }
 
-.stretch {
+.menu-selections li.menu-schedule, .menu-selections li.menu-stretching {
+    margin: 0 0 0 4%;
+}
+
+ul li {
+    margin: 0;
+    padding: 0;
+}
+
+.container{
     width: 100%;
-    display: inline-block;
-    font-size: 0;
-    line-height: 0
+    padding-right: 0px;
+    padding-left: 0px;
 }

@@ -2,5 +2,6 @@
 * [Week07-Markdown/Summary.html](Week07-Markdown/Summary.html)
 * [Week07-Markdown/Stretches/Summary.html](Week07-Markdown/Stretches/Summary.html)
 * [Week07-GoogleDriveGitZip/Summary.html](Week07-GoogleDriveGitZip/Summary.html)
+* [Random-Markdowns/Summary.html](Random-Markdowns/Summary.html)
 * [MyPets/Summary.html](MyPets/Summary.html)
 * [Assignments/Summary.html](Assignments/Summary.html)

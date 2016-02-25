@@ -1,24 +1,24 @@
 
 <section id="home-body">
 <ul>
-  <li id="home-menu">
+  <li class="home-menu">
     <div class="container">
       <div class="row">
         <ul class="menu-selections">
           <li class="menu-home">
-            <img src="/images/yoga/yoga-pose-01.jpg" alt="yoga pose" title="Home">
+            <img src="/images/yoga/yoga-pose-01.png" alt="yoga pose" title="Home">
             <p><a href="Week07-Markdown/Welcome.html">HOME</a></p>
           </li>
           <li class="menu-schedule">
-            <img src="/images/yoga/yoga-pose-02.jpg" alt="yoga pose" title="Schedule">
+            <img src="/images/yoga/yoga-pose-02.png" alt="yoga pose" title="Schedule">
             <p><a href="Week07-Markdown/Schedule.html">SCHEDULE</a></p>
           </li>
           <li class="menu-stretching">
-            <img src="/images/yoga/yoga-pose-03.jpg" alt="yoga pose" title="Stretch">
+            <img src="/images/yoga/yoga-pose-03.png" alt="yoga pose" title="Stretch">
             <p><a href="Week07-Markdown/Stretch-Home.html">STRETCH</a></p>
           </li>
           <li class="menu-contact">
-            <img src="/images/yoga/yoga-pose-04.jpg" alt="yoga pose" title="Contact">
+            <img src="/images/yoga/yoga-pose-04.png" alt="yoga pose" title="Contact">
             <p><a href="Week07-Markdown/contact-us.html">CONTACT</a></p>
           </li>
         </ul>
@@ -29,6 +29,5 @@
     This is a Midterm assignment for Prog 270
     February 2016
   </li>
-//<li></li>
 </ul>
 </section>
