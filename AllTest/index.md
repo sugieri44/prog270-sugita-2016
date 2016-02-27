@@ -1,10 +1,7 @@
 
-<section id="home-body">
-<ul>
-  <li class="home-menu">
-    <div class="container">
+<section class="home-menu">
+<ul class="menu-selections">
       <div class="row">
-        <ul class="menu-selections">
           <li class="menu-home">
             <img src="/images/yoga/yoga-pose-01.png" alt="yoga pose" title="Home">
             <p><a href="Week07-Markdown/Welcome.html">HOME</a></p>
@@ -21,13 +18,11 @@
             <img src="/images/yoga/yoga-pose-04.png" alt="yoga pose" title="Contact">
             <p><a href="Week07-Markdown/contact-us.html">CONTACT</a></p>
           </li>
-        </ul>
       </div>
-    </div>
-  </li>
-  <li class="full-width color-white" id="intro">
+</ul>
+</section>
+
+<section>
     This is a Midterm assignment for Prog 270
     February 2016
-  </li>
-</ul>
 </section>
