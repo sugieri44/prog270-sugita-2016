@@ -2,101 +2,16 @@ img.twenty-five-percent {
    width: 25%;
 }
 
+body {
+    padding-top: 70px;
+    padding-bottom: 30px;
+}
+
 img.hundred-percent {
    width: 100%;
 }
 
-/* QUESTION: How to load style.css after anyothers*/
-/*To fill the entire section with image, no white space*/
-.navbar{
-	margin-bottom: 0px;
-}
-
-/* Hide the elven logo*/
-figure image{
-	display: none;
-}
-
-
-.text-center {
-    text-align: center;
-}
-
-.row {
-    margin-right: -15px;
-    margin-left: -15px;
-}
-
-.for-full-back{
-  width: 100%;
-}
-
-/*section{
-  padding-top: 30px;
-  padding-bottom: 40px;
-}*/
-
-
-section.home-menu{
-    height: 400px;
-    padding-top: 150px;
-    /*QUESTION: how to fill the entire pare with the image below*/
-    /*background: url(/images/yoga/stretch-on-a-bed.jpg) no-repeat;*/
-    margin-left: auto;
-    margin-right: auto; 
-
-  /* Preserve aspet ratio */
-  min-width: 100%;
-  min-height: 100%;
-}
-
-
-/*Display icons on the homepage evenly */
-.menu-selections li {
-    float: left;
-    width: 23%;
-    display: inline-block;
-}
-
-.menu-selections li.menu-schedule, .menu-selections li.menu-stretching {
-    margin: 0 0 0 4%;
-}
-
-/*Remove HTML list bullets*/
-.home-menu ul{
-	list-style-type: none;
-}
-
-.container{
-    width: 100%;
-    padding-right: 0px;
-    padding-left: 0px;
-}
-
-/* Welcome page*/
-.Welcome-top img{
-	width: 32%;
-}
-
-.Welcome-top{
-	margin-bottom: 10%;
-}
-span.float-right{
-	float: right;
-	width: 40%;
-}
-
-span.float-left{
-	float: left;
-	width: 60%;
-}
-
-.float-left .display-block{
-	float: left;
-	display: block;
-}
-
-.float-right .display-block{
-	float: right;
-	display: block;
+div.padded{
+	padding-top: 5px;
+	padding-bottom: 5px;
 }
