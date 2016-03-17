@@ -7,6 +7,11 @@ body {
     padding-bottom: 30px;
 }
 
+.thumbnail {
+    border: 0 none;
+    box-shadow: none;
+}
+
 img.hundred-percent {
    width: 100%;
 }
