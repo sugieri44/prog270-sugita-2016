@@ -6,7 +6,7 @@
         <img src="/images/yoga/yoga-pose-01.png" alt="yoga pose" title="Home">
       </a>
       <div class="caption">
-        <h3>IN CLASS</h3>
+        <h3>CLASS SESSIONS</h3>
       </div>
     </div>
     <div class="col-xs-6 col-md-3">
@@ -135,9 +135,6 @@
 <br><br>
 <br><br>
 <br><br>
-<br><br>
-<br><br>
-<br><br>
 <div class="container-fluid bg-grey">
   <div class="row">
     <div class="col-sm-4" >
@@ -150,8 +147,6 @@
     </div>
   </div>
 </div>
-<br><br>
-<br><br>
 <br><br>
 <br><br>
 <br><br>
